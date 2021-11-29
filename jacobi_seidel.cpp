@@ -11,7 +11,7 @@
 f1 x = (-3 - 5*y)/2
 f2 y= 2 - 3*x
 -------------------------------------------------
-3x + y = 2          Sistema com linhas permutas
+3x + y = 2          Sistema com linhas permutadas
 2x + 5y = -3 
 
 f1 x = (2 - y)/3
